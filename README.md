@@ -1,7 +1,7 @@
 # Acerca de mí
 
 Ingeniero acústico y editor técnico con formación en seguridad de la información.  
-Experiencia en elaboración, desarrollo y gestión de proyectos complejos con cumplimiento normativo.  
+Elaboración, desarrollo y gestión de proyectos complejos con cumplimiento normativo.  
 ## Intereses:
 - Hacking
 - Simulación energética de edificios (BIM, IES-VE, eQuest)
