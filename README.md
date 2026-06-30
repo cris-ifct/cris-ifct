@@ -13,4 +13,4 @@ Elaboración, desarrollo y gestión de proyectos complejos con cumplimiento norm
 - Música
 - Pastelería
 
-Estoy imaginando un mundo distópico en el que exista una actividad que combine todo lo anterior. Si alguien tiene un proyecto así en la realidad, que avise.
+Estoy imaginando un lugar en el que exista una actividad que combine todo lo anterior. Si alguien tiene un proyecto así en la realidad, que avise.
